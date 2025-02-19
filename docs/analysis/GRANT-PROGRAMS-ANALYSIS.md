@@ -4,7 +4,7 @@
 
 ### 1. Solana Grants Program
 - **Focus Areas**: 
-  - Developer Tooling
+  - Developer Tooling 
   - Education
   - DAO Tooling
   - Censorship Resistance

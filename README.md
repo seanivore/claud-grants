@@ -1,38 +1,42 @@
-# [Project Name]
+# Claud-Grants
 
 ## Overview
-Brief description of what this project does and its purpose.
+Claud-Grants is the central planning and documentation hub for grant applications within the claud-world ecosystem. This project manages all grant-related documentation, templates, and planning materials, ensuring a structured approach to grant applications and program analysis.
 
 ## Quick Start
-1. Installation steps
-2. Basic configuration
-3. Simple usage example
+1. Navigate to ./grants/templates for standard grant application templates
+2. Check ./docs/analysis for current grant program analysis
+3. Review ./docs/planning for project timelines and roadmaps
 
 ## Features
-- Key feature 1
-- Key feature 2
-- Key feature 3
+- Standardized grant application templates
+- Comprehensive grant program analysis
+- Structured documentation system
+- Clear separation of planning and implementation
+- Version-controlled grant materials
 
 ## Core Functions
-- What it does well
-- Primary use cases
-- Notable capabilities
+- Grant program research and analysis
+- Template management for applications
+- Documentation organization
+- Project planning and tracking
+- Integration with claud-tok website
 
 ## Known Challenges
-- Current limitations
-- Areas requiring attention
-- Common troubleshooting points
+- Maintaining synchronization between planning and implementation
+- Version control of grant materials
+- Tracking multiple grant applications simultaneously
 
 ## Documentation
 For detailed information, see:
-- [SPECIFICATIONS.md](./SPECIFICATIONS.md) - Technical specifications and architecture
-- [PROJECT_MAP.md](./PROJECT_MAP.md) - Project structure and navigation
-- [CLAUDEME.md](./CLAUDEME.md) - AI development collaboration
+- [SPECIFICATIONS](../SPECIFICATIONS.md) - Technical requirements and structure
+- [PROJECT_MAP](../PROJECT_MAP.md) - Project organization and navigation
+- [CLAUDEME](../CLAUDEME.md) - AI development collaboration
 
 ## Development Setup
-- Required environment
-- Dependencies
-- Basic configuration
+- Git for version control
+- Markdown editor for documentation
+- Access to claud-world ecosystem repositories
 
 ## License
-[License Type]
+MIT License
