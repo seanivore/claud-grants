@@ -110,4 +110,4 @@ Total Request: $10,000 USDC
 - Community-driven governance planned
 - Regular progress updates via Twitter/Discord
 - Commitment to long-term maintenance
-- Focus on sustainable growth 
+- Focus on sustainable growth
