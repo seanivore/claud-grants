@@ -1,8 +1,8 @@
 ================================================================================
-# $CLAUD Grant Writing & Quality Checklist
+# $CLAUD Grant Requirements & Writing Style Checklist
 ================================================================================
-[Path](/Users/seanivore/Development/claud-grants/PRESENTABLE_REPO_TASKS.md)
-[Repository](https://github.com/seanivore/claud-grants/blob/main/PRESENTABLE_REPO_TASKS.md)
+[Repository Path](/claud-grants/docs/submitting/REQUIREMENT_CHECK.md)
+[Github URL](https://github.com/.../claud-grants/.../REQUIREMENT_CHECK.md)
 
 
 This document tracks repository cleanup and enhancement tasks, with a focus on grant-aligned documentation standards. It serves as both a task list and a style guide for maintaining persuasive, grant-focused documentation.
