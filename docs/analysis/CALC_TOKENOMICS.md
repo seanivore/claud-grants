@@ -12,7 +12,7 @@ Proven Viral Technical Content Strategy:
 Example Post Performance (r/artificial):
 - Strong/Viral (40K+ views): ~16% of posts
 - Standard Performance (≤8K views): ~84% of posts
-- Peak engagement: 66% upvote rate, 25 comments
+- Peak engagement: 66% up-vote rate, 25 comments
 - Conversion: 3% click through, 3% convert
 
 ### Communities
