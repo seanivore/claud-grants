@@ -1,13 +1,26 @@
 ================================================================================
 # $CLAUD Grant Requirements & Writing Style Checklist
 ================================================================================
-[Repository Path](/claud-grants/docs/submitting/REQUIREMENT_CHECK.md)
-[Github URL](https://github.com/.../claud-grants/.../REQUIREMENT_CHECK.md)
-
+[REQUIREMENT_CHECK.md](docs/submitting/REQUIREMENT_CHECK.md)
 
 This document tracks repository cleanup and enhancement tasks, with a focus on grant-aligned documentation standards. It serves as both a task list and a style guide for maintaining persuasive, grant-focused documentation.
 
 A living document tracking our repository cleanup and enhancement tasks, with a focus on grant-aligned documentation standards.
+
+[Writing Style Guide](#writing-style-guide)
+   [Core Principles](#core-principles)
+   [Writing Style Examples](#writing-style-examples)
+[Writing Quality Guidelines](#writing-quality-guidelines)
+   [Document Review Questions](#document-review-questions)
+   [Value Connection Examples](#value-connection-examples)
+[Grant "Focus Areas" To Fit Into](#grant-focus-areas-to-fit-into)
+   [Identical List From Multiple Grants](#identical-list-from-multiple-grants)
+   [In Sean's Own Words](#in-seans-own-words)
+[Common Requirements Checklist](#common-requirements-checklist)
+   [Project Documentation](#project-documentation)
+   [Technical Requirements](#technical-requirements)
+   [Community Impact](#community-impact)
+   [Financial Planning](#financial-planning)
 
 ================================================================================
 ## Writing Style Guide
@@ -33,7 +46,7 @@ A living document tracking our repository cleanup and enhancement tasks, with a 
    - Show both capability and purpose
    - Maintain persuasive narrative
 
-### Examples
+### Writing Style Examples
 
 ❌ Before (Too Brief):
 ```markdown
@@ -53,10 +66,10 @@ Educational Platform Performance Engineering:
 ```
 
 ================================================================================
-## Quality Guidelines
+## Writing Quality Guidelines
 ================================================================================
 
-### Document Review Checklist
+### Document Review Questions
 1. Does each section directly support grant goals?
 2. Are technical specifications tied to value delivery?
 3. Is the language persuasive and detailed?
@@ -72,10 +85,10 @@ When writing about:
 - Infrastructure: Focus on public good aspects
 
 ================================================================================
-## Grant Submission Requirements 
+## Grant "Focus Areas" To Fit Into
 ================================================================================
 
-### Straight From Multiplpe Grants
+### Identical List From Multiple Grants
 
 1. **Promote Decentralization**
    Create developer tooling, media, content, and community projects focussed on promoting and bringing more decentralization to Solana as well as the world at large.
@@ -116,7 +129,7 @@ When writing about:
 6. What kind of academic research could a system like our enable?  
 
 ================================================================================
-## Common Requirements Across Programs
+## Common Requirements Checklist
 ================================================================================
 
 ### Project Documentation
@@ -147,4 +160,4 @@ When writing about:
 - [ ] Resource allocation
 - [ ] Timeline of expenses
 - [ ] Sustainability plan
-- [ ] Additional funding sources
+- [ ] Additional funding sources 

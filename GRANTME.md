@@ -17,21 +17,24 @@
 ================================================================================
 
 ## Elevator Pitch
-Some shocking 2025 stats: 20 employees, the number employed at a handful of $2 billion valued AI-startups. 16 million, the number of new developers entering the field, fully self-taught and virtually code illiterate. 
-
-Where some see chaos, $CLAUD sees opportunity to show the industry exactly how decentralization can take down the monoliths of today. 
-
-Leveraging a gamified Solana protocol designed to incentivize AI developer community building and personal skill development through education, $CLAUD protocol aims to facilitate rapid adaptation to the changing landscape. 
-
-In their back pocket, a never before captured goldmine in the form of a knowledge graph illustrating invaluable data showing everything about AI development ecosystems, and is positioned to be fully owned exclusively by the $CLAUD community. 
+Even as billion dollar startups employ 20 people and 16 million self-taught, code illiterate AI-first developers enter the scene, #CLAUDE has designed a gamified ecosystem that validates and curates tools, creates connections, building all new employment pipelines. The best part? Gamification also informs their AI-developer knowledge graph, a first of its kind, priceless, source of information on the most effective tool combinations or predict where the next big opportunities will emerge.  
 
 ---
 
-The first ever decentralized, community owned, DaaP, 
+Billion dollar-valued AI-startups right now are employing under 20 people. 
+At the same time we have 16 million self-taught, code illiterate AI-first developers entering the scene. 
+Chaos, or opportunity? #CLAUD has designed a gamified ecosystem that validates the curates tools and creates connections, building all new employment pipelines. The best part? Gamification also informs their AI developer knowledge graph. A first of its kind, currently priceless, source of information — data unlike anything we've seen collected before. Its information comes from the same gamification, meaning it'll hold information like the most effective tool combinations, or even be able to have statistically significant data that predicts where the next big opportunities will emerge in the industry. 
+The best part is that this goldmine is owned exclusively by the self-governing $CLAUDE Protocol community. 
 
-Enter $CLAUD: a decentralized community leveraging a gamified Solana protocol to validate and curate development tools, educational resources, and simultaneously incentivizes AI-developer community growth through
+---
 
-The $CLAUD token and its ecosystem is strategically situated to take on organizing a new world of technology while creating an employment pipeline that could scale to handle millions. And it just might need to.  
+2025 is two months in. Forbes reported a notable shift in size of new tech companies; we've seen billion dollar valuations of 10-person AI-startups. Meanwhile, AI has ushered in 16 million new developers, all entering the field self-taught and virtually code illiterate.
+
+Chaos, or opportunity? Enter $CLAUD: a decentralized protocol validating and curating development tools, education resources, and connections that build an employment pipeline, all scalable through leveraging gamification. 
+
+In their back pocket? That same carefully designed methodology builds a first-ever community owned living knowledge-graph of never-before-captured information about the evolution of AI-era development, able to inform about the most effective learning pathways, strongest ways to leverage AI, the most effective tool combinations, even predict where the next big opportunities will emerge. 
+
+The best part? This goldmine is owned exclusively by the self-governing $CLAUDE Protocol community. 
 
 ================================================================================
 
