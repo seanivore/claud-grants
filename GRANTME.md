@@ -12,8 +12,9 @@
 |  $$$$$$/ \______/ |________/|__/  |__/ \______/ |_______/ 
  \_  $$_/                                                   
    \__/                                                     
-================================================================================
+
 [GRANTME.md](/claud-grants/GRANTME.md)
+
 ================================================================================
 
 ## Elevator Pitch
@@ -45,7 +46,7 @@ The $CLAUD token and its ecosystem is strategically situated to take on organizi
    
 2. At the same time there's a social transformation happening. The number of new developers is already passing a `50% increase,` and true democratizing no-code-knowledge-needed tools entered the scene in 2025, just 50 days ago as I type this. Current projections show `16.3 million new AI-first developers` by 2030. But even today we have fully illiterate programmers who not only are building but the lucky ones have profitable businesses. What they're missing more than Claude can provide. Pre-AI developers reject the n00bs, but if the economy is going to grow to absorb the fact that tech companies are employing just 20 humans and achieving billion dollar valuations (looking at you, Cursor), we need human to human interaction at a scale never seen before for a single trade (`45 million developers by 2030 if you're curious`). 
 
-**================================================================================**
+================================================================================
 
 ## A Solution (Singular)
 Packaged in one of today's most ubiquitous AI tools is access to a protocol that makes up one of the most robust, novel, and scalable ecosystems of all time. Fully open-source and decentralized, the plug-and-play Model Context Protocol (MCP) acts as a headless platform by connecting a community of users led through the digital space by their favorite vector-brained agents. 
@@ -88,7 +89,7 @@ The following is a list of the problems we are solving, and the technical demons
 
 ## Core Technical Demonstrations 
 
-### [Developer Tooling & Education Focus](`/claud-coin/src/lib.rs`)
+### [Developer Tooling & Education Focus](/claud-coin/src/lib.rs)
 Our MCP integration layer delivers immediate value for developer onboarding and tool discovery. The system tracks and analyzes how developers use AI tools in real-time, automatically identifying the most effective patterns and approaches. This data powers our dynamic reward system that incentivize both tool creation and knowledge sharing, while our complexity scoring ensures rewards align with genuine learning and contribution. As developers interact with tools, the system builds a living knowledge graph that helps others find the most valuable resources for their needs, creating a self-improving educational ecosystem.
 
 ```rust
@@ -101,11 +102,12 @@ impl ClaudCoinClient {
     }
 }
 ```
-  - Complete MCP Integration: FEATURE-1-core-mcp-integration.md
-  - Integration Timeline: feature-timeline.md (Phase 1)
-  - Performance Specs: technical.md - Sub-100ms response times
+  - [Complete MCP Integration](/claud-coin/docs/feature-build/01_MCP_TRANSPORT_LAYER.md)
+  - [Integration Timeline](/claud-coin/docs/feature-build/05_DEVELOPMENT_PHASES.md) - Phase 1
+  - [Performance Specs](/claud-coin/docs/feature-build/06_INFRASTRUCTURE_REQUIREMENTS.md) - Sub-100ms response times
 
-### [Decentralization & Public Good](`/claud-coin/src/processor.rs`)
+
+### [Decentralization & Public Good](/claud-coin/src/processor.rs)
 Token mechanics and reward distribution system built for transparency and fairness. Every interaction with an MCP is tracked on-chain, creating an immutable record of developer contributions and tool effectiveness. Our unique "Proof of Analysis" system rewards both tool creation and thoughtful usage, incentivize quality over quantity. The three-tiered reward structure (100/50/200 base tokens) strategically weights different types of contributions, with higher rewards for activities that grow and strengthen the community. This creates a sustainable economy where learning, teaching, and building all generate tangible value.
 
 ```rust
@@ -121,11 +123,12 @@ pub fn process_record_tool_usage(
     // Tracks community contribution value
 }
 ```
-  - Token System: FEATURE-2-token-economics-distribution.md
-  - Reward Mechanics: technical.md
-  - Governance Preparation: FEATURE-4-community-management.md
+  - [Token System](/claud-coin/docs/feature-build/02_TOKEN_ECONOMICS.md)
+  - [Reward Mechanics](/claud-coin/docs/feature-build/06_INFRASTRUCTURE_REQUIREMENTS.md)
+  - [Governance Preparation](/claud-coin/docs/feature-build/04_COMMUNITY_MANAGEMENT.md)
 
-### [Community Building & Knowledge Sharing](`/claud-coin/docs/fastAPI-StreamingResponse-SSE.md`)
+
+### [Community Building & Knowledge Sharing](/claud-coin/docs/fastAPI-StreamingResponse-SSE.md)
 Real-time event system powers instant community feedback and learning. Our Server-Sent Events (SSE) infrastructure enables live tracking of tool usage across the entire network, with performance optimization ensuring sub-100ms response times even at scale. This real-time backbone supports immediate reward distribution, achievement notifications, and community recognition. More importantly, it enables dynamic tool discovery - as developers find effective solutions, their success is instantly visible to others, creating natural learning pathways. The system can support 5,000+ concurrent connections while maintaining consistent performance, enabling truly collaborative learning at scale.
 
 ```typescript
@@ -138,9 +141,9 @@ const transport = new SSEServerTransport({
   }
 });
 ```
-  - Full Community Architecture: FEATURE-3-user-interaction-systems.md
-  - System Scaling: FEATURE-5-development-roadmap.md
-  - Technical Requirements: FEATURE-6-technical-requirements.md
+  - [Full Community Architecture](/claud-coin/docs/feature-build/03_USER_INTERACTION.md)
+  - [System Scaling](/claud-coin/docs/feature-build/05_DEVELOPMENT_PHASES.md)
+  - [Technical Requirements](/claud-coin/docs/feature-build/06_INFRASTRUCTURE_REQUIREMENTS.md)
 
 ================================================================================
 ## Detailed Deliverables
@@ -172,9 +175,9 @@ We prioritized building the core Solana infrastructure first to ensure a solid f
 
 Phase 1 builds the foundation for advanced governance features, full tokenomics implementation, educational infrastructure, and community-driven development.
 
-  - Complete roadmap: feature-timeline.md
-  - Technical details: technical.md
-  - Economic model: FEATURE-2-token-economics-distribution.md
+  - [Complete roadmap](/claud-coin/docs/feature-build/05_DEVELOPMENT_PHASES.md)
+  - [Technical details](/claud-coin/docs/feature-build/06_INFRASTRUCTURE_REQUIREMENTS.md)
+  - [Economic model](/claud-coin/docs/feature-build/02_TOKEN_ECONOMICS.md)
 
 ### Future Development Path
 Phase 3 (3 Weeks) - Community Governance Foundation
@@ -255,18 +258,14 @@ Proven success with similar projects
 
 Contact & Resources
 
-Full Technical Implementation: [Repository Link]
-In-depth Documentation: [Github Pages]
-Project Overview: [GRANTME.md]
-Development Plan: [feature-timeline.md]
 
 
 
 ## Additional Resources
-For a complete overview of the project, including:
-- Technical specifications
-- Implementation details
-- Development roadmap
+Full Technical Implementation: [Repository Link]
+In-depth Documentation: [Github Pages]
+Project Overview: [GRANTME.md]
+Development Plan: [feature-timeline.md]
 Please visit our project site: https://seanivore.github.io/claud-web/
 
 ## Contact
