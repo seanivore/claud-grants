@@ -1,4 +1,12 @@
 # $CLAUD Grant Application Guide
+```ASCII ART
+  _     ___   __    _           ___ 
+ | |   / __\ / /   /_\  /\ /\  /   \
+/ __) / /   / /   //_\\/ / \ \/ /\ /
+\__ \/ /___/ /___/  _  \ \_/ / /_// 
+(   /\____/\____/\_/ \_/\___/___,'  
+ |_|                                
+```
 [claud-grants](https://github.com/seanivore/claud-grants)
 
 Hello fellow Claudes! This repository contains all materials for $CLAUD grant applications. This guide will help you assist with grant writing, research, and documentation.

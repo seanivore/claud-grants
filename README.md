@@ -1,4 +1,12 @@
 # $CLAUD Grant Applications
+```ASCII ART
+   _                                 
+ _| |_ _____ __    _____ _____ ____  
+|   __|     |  |  |  _  |  |  |    \ 
+|__   |   --|  |__|     |  |  |  |  |
+|_   _|_____|_____|__|__|_____|____/ 
+  |_|                                
+```
 [claud-grants](https://github.com/seanivore/claud-grants)
 
 Repository for $CLAUD protocol grant applications, funding documentation, and development milestone tracking.

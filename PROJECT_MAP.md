@@ -1,12 +1,12 @@
 ================================================================================
 # $CLAUD Protocol: Development Roadmap & Project Structure
 ================================================================================
+```ASCII ART
  ____ ____ ____ ____ ____ ____ 
 ||$ |||C |||L |||A |||U |||D ||
 ||__|||__|||__|||__|||__|||__||
 |/__\|/__\|/__\|/__\|/__\|/__\|
-
-
+```
 [Development Roadmap & Project Structure](https://github.com/seanivore/claud-grants/blob/claud-grants/PROJECT_MAP.md)
 
 This document outlines our development phases and funding milestones, providing clear deliverables and timelines for each stage of the project. 
