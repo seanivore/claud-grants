@@ -12,7 +12,7 @@ This repository contains all materials and documentation related to grant applic
 Our funding approach implements a phased development strategy:
 
 ### Immediate Applications
-1. **Solana Foundation USA Grants** - Initial Funding Phase [$10k]
+1. **Solana Foundation USA Grants** - Initial Funding Phssase [$10k]
    - MCP validation & NFT system
    - Initial token infrastructure
    - Basic liquidity pools
