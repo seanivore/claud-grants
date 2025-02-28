@@ -33,23 +33,23 @@ Our funding approach implements a phased development strategy:
    - Expanded compatibility
    - Network scaling
 
-See [SUBMIT_HERE.md](docs/submitting/SUBMIT_HERE.md) for complete grant program details.
+See [SUBMIT_HERE.md](https://github.com/seanivore/claud-grants/blob/claud-grants/docs/submitting/SUBMIT_HERE.md) for complete grant program details.
 
 ## 📝 Application Materials
 
 ### Core Application Documents
-- [GRANTME.md](GRANTME.md) - Primary grant application document
-- [PROJECT_MAP.md](docs/PROJECT_MAP.md) - Development roadmap and milestones
-- [CALC_TOKENOMICS.md](docs/analysis/CALC_TOKENOMICS.md) - Token economics calculations
+- [GRANTME.md](https://github.com/seanivore/claud-grants/blob/claud-grants/GRANTME.md) - Primary grant application document
+- [PROJECT_MAP.md](https://github.com/seanivore/claud-grants/blob/claud-grants/PROJECT_MAP.md) - Development roadmap and milestones
+- [CALC_TOKENOMICS.md](https://github.com/seanivore/claud-grants/blob/claud-grants/docs/analysis/CALC_TOKENOMICS.md) - Token economics calculations
 
 ### Analysis & Research
-- [DEEP_RESEARCH.md](docs/analysis/DEEP_RESEARCH.md) - Market and opportunity research
-- [GRANT_ANALYSIS.md](docs/analysis/GRANT_ANALYSIS.md) - Grant program analysis
-- [WINNING_GRANT_EXAMPLE.md](docs/analysis/WINNING_GRANT_EXAMPLE.md) - Successful application examples
+- [DEEP_RESEARCH.md](https://github.com/seanivore/claud-grants/blob/claud-grants/docs/analysis/DEEP_RESEARCH.md) - Market and opportunity research
+- [GRANT_ANALYSIS.md](https://github.com/seanivore/claud-grants/blob/claud-grants/docs/analysis/GRANT_ANALYSIS.md) - Grant program analysis
+- [WINNING_GRANT_EXAMPLE.md](https://github.com/seanivore/claud-grants/blob/claud-grants/docs/analysis/WINNING_GRANT_EXAMPLE.md) - Successful application examples
 
 ### Submission Guidelines
-- [REQUIREMENT_CHECK.md](docs/submitting/REQUIREMENT_CHECK.md) - Documentation requirements
-- [SUBMIT_HERE.md](docs/submitting/SUBMIT_HERE.md) - Grant program details
+- [REQUIREMENT_CHECK.md](https://github.com/seanivore/claud-grants/blob/claud-grants/docs/submitting/REQUIREMENT_CHECK.md) - Documentation requirements
+- [SUBMIT_HERE.md](https://github.com/seanivore/claud-grants/blob/claud-grants/docs/submitting/SUBMIT_HERE.md) - Grant program details
 
 ## ⏰ Timeline & Process
 
@@ -78,7 +78,7 @@ See [SUBMIT_HERE.md](docs/submitting/SUBMIT_HERE.md) for complete grant program 
 
 ## 🤝 Contributing
 
-If you're helping with grant applications, please review [REQUIREMENT_CHECK.md](docs/submitting/REQUIREMENT_CHECK.md) for documentation standards and [WINNING_GRANT_EXAMPLE.md](docs/analysis/WINNING_GRANT_EXAMPLE.md) for successful application patterns.
+If you're helping with grant applications, please review [REQUIREMENT_CHECK.md](https://github.com/seanivore/claud-grants/blob/claud-grants/docs/submitting/REQUIREMENT_CHECK.md) for documentation standards and [WINNING_GRANT_EXAMPLE.md](https://github.com/seanivore/claud-grants/blob/claud-grants/docs/analysis/WINNING_GRANT_EXAMPLE.md) for successful application patterns.
 
 ## 📚 Technical Implementation
 
