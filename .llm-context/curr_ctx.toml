@@ -1,0 +1,6 @@
+current_profile = "code"
+
+[selections.code]
+full_files = ["/claud-grants/PROJECT_MAP.md", "/claud-grants/SPECIFICATIONS.md", "/claud-grants/CLAUDEME.md", "/claud-grants/grants/grants-open-apply.md", "/claud-grants/grants/grant-drafting.md", "/claud-grants/grants/RESEARCH-QUESTIONS.md", "/claud-grants/grants/tasks-get-it-done/tokenomics-calc.md", "/claud-grants/grants/tasks-get-it-done/TODO--short-list.md", "/claud-grants/grants/tasks-get-it-done/perplexity-questions.md", "/claud-grants/grants/examples/superteam/claud-coin-application.md", "/claud-grants/grants/examples/superteam/successful-dev-tools-grant.md", "/claud-grants/grants/templates/microgrant-template.md", "/claud-grants/grants/templates/grant-requirements-template.md", "/claud-grants/docs/analysis/GRANT-PROGRAMS-ANALYSIS.md", "/claud-grants/docs/planning/feature-timeline.md"]
+outline_files = []
+timestamp = 1740047393.002437
